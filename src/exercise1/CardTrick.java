@@ -60,7 +60,7 @@ public class CardTrick {
      * @author Anreet Kaur, 25th January, 2022
      */
     private static void printInfo() {
-    
+        // I am done.
         System.out.println("Congratulations, you guessed right!");
 
         System.out.println("My name is Anreet Kaur.");
